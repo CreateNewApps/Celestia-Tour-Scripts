@@ -14,7 +14,7 @@ http://www.shatters.net/celestia/
 or
 http://www.celestiamotherlode.net
 
-In Future, i will provide Scripts to easily alter your Celestia-Configuration without harming.
+In Future, i will provide Scripts to easily alter your Celestia-Configuration without harming it. But be prepared, there will be dependencies with a huge amount.
 
 So, if you use this Scripts, I hope you will have a good time and like these educational Scripts. However, feel free to leave a comment.
 
