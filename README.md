@@ -14,7 +14,7 @@ http://www.shatters.net/celestia/
 or
 http://www.celestiamotherlode.net
 
-In Future, i will provide Scripts to easily alter your Celestia-Configuration without harming it. But be prepared, there will be dependencies with a huge amount.
+In Future, i hope to provide my Scripts to easily alter your Celestia-Configuration without harming it.
 
 So, if you use this Scripts, I hope you will have a good time and like these educational Scripts. However, feel free to leave a comment.
 
@@ -22,3 +22,7 @@ For each Script i will publish a Video for those who don't want to install Celes
 
 Have Fun!
 Nachtmeister
+
+
+Available Videos (released on Youtube):
+ - [Our Starsystem - Jupiter and the Galilean moons](http://youtu.be/glydpSw-q9Y)
