@@ -1,0 +1,228 @@
+############################################################
+#
+#                   README / INSTALLATION
+#
+############################################################
+#
+#   Nachtmeister's Planet Tours - 005 - Jupiter
+#
+#   Included Files: 'PlanetTours-005-Jupiter.cel'
+#                   'PlanetTours-005-Jupiter.CHANGELOG'
+#                   'PlanetTours-005-Jupiter.README'
+#                   'PlanetTours-005-Jupiter.LICENCE'
+#
+############################################################
+#
+#
+#   Script-Description:
+#
+#
+#   An animated Journey the largest Planet in the Solar
+#   System.
+#
+#   Some Facts:
+#   Jupiter's mass is 2.5 times that of all the other
+#   planets in the Solar Systemcombined, but it is only
+#   a 1/1000 of the mass of our Sun. Nevertheless - this
+#   is so massive that its barycenter with the Sun lies
+#   above the Sun's surface at 742,794 km from the Sun's
+#   center and about 50,000 km above the Sun's surface.
+#
+#   You will see Jupiter and it's four biggest moons -
+#   discovered 1610 by Galileo Galilei - and some
+#   interesting places.
+#
+#
+#
+############################################################
+#
+#   Table of Contents:
+#
+#   Part I.     -   Introducing the Script
+#   Part II.    -   Preparing Celestia
+#   Part III.   -   Getting the (recommended) Script Dependencies
+#   Part IV.    -   Installing and configuring the Modifications
+#   Part V.     -   Is there a Plan B?
+#   Part VI.    -   Appendix
+#
+############################################################
+#
+#
+# ----------------------------------------------------------
+#
+#   PART I. - INTRODUCING THE SCRIPT
+#
+# ----------------------------------------------------------
+#
+#   because of the used Modifications and there dependencies
+#   to Celestia, I recommend Version 1.6.0 or higher.
+#
+#   This Readme-File is under construction an not yet
+#   finished. It will be completed soon.
+#   The Script runs fine without the modifications, but
+#   the List of used Modifications have been completly
+#   inserted in 'Part III - Getting the (recommended)
+#   Script Dependencies'.
+#
+#   (to be continued...)
+#
+#
+#
+#
+#
+#
+# ----------------------------------------------------------
+#
+#   PART II. - PREPARING CELESTIA
+#
+# ----------------------------------------------------------
+#
+#   To easily add Modifications and new Textures to Celestia
+#   we will create a new directory within the $HOME Folder
+#   and change the 'celestia.cfg'-File to access this at
+#   Startup.
+#
+#   Doing this will create the benefit to add and modify
+#   Celestia-Settings without the need of Root-Access to the
+#   Celestia-Base-Folder. If something went wrong, delete
+#   everything within this Folder and your installation
+#   of Celestia has been reset and you can start from base.
+#
+#   (to be continued...)
+#
+#
+#
+#
+# ----------------------------------------------------------
+#
+#   PART III. - GETTING THE (RECOMMENDED) SCRIPT DEPENDENCIES
+#
+# ----------------------------------------------------------
+#
+#   To fulfill all dependencies for the in the Script defined
+#   Alternate Surface "BigHiResPack", you must follow these
+#   Steps:
+#
+#   1.  You should first check, if you already have some/all
+#       of the necessary Modifications. All Modifications are
+#       listed in the next step with there Name.
+#
+#       If you already have some/all of the Modifications, you
+#       can consult 'Part V. - Is there a Plan B?' to get an
+#       Idea, how to configure your Installation.
+#
+#   2.  Download the necessary Texture Modification Packs
+#       I had chosen for this Script. In the Appendix at
+#       the end of this file, I will provide you with a
+#       List of all Downloadlocations, which can be easily
+#       used as input-file for wget or any other helper.
+#
+#
+#       Modifications Listed by Author:
+#
+#       + Runar Thorvaldsen <post@thorvaldsen.net>
+#           -   A portrait of our sun / Complete version VT/PNG/3DS
+#
+#           Located here:
+#           http://www.celestiamotherlode.net/catalog/show_creator_details.php?creator_id=22
+#
+#
+#       + Jestr <jestr@ntlworld.com>
+#           - 64K Jestr Earth Mark I DDS
+#           - 64K Jestr Earth Mark II DDS
+#           - 32K Earth Normal Map DDS
+#           - 32K Earth Night Map Mark II DDS
+#
+#           Located here:
+#           http://www.celestiamotherlode.net/catalog/show_creator_details.php?creator_id=5
+#
+#
+#       + John van Vliet
+#           - Earth Cloud Map (16K VT)
+#           - 2K/4K/8K Jupiter Map (PNG)
+#           - Callisto (16K VT PNG)
+#           - Callisto (8K VT) Normal Map
+#           - Europa (16K VT PNG)
+#           - Io (8K VT)
+#           - Io Night 1K/2K/4K
+#           - Io Normal Map-VT
+#
+#           Located here:
+#           http://www.celestiamotherlode.net/catalog/show_creator_details.php?creator_id=10
+#
+#
+#       + Guillermo Abramson
+#           - Milky Way DSC/3DS/CMOD/JPG/PNG
+#
+#           Located here:
+#           http://www.celestiamotherlode.net/catalog/galaxies.php
+#
+#
+#
+#
+#   3.  After Downloading the files, consult the Installation Notes
+#       provided with these files for further Information regarding
+#       Installation/Configuration Issues.
+#
+#       The next Steps in the following Chapters will give an short
+#       overview how to do the necessary changes. However, i will
+#       only Support my own Files. For Support for the Modifications
+#       you have to contact the given Author.
+#
+#   (to be continued...)
+#
+#
+#
+#
+#
+#
+#
+#
+# ----------------------------------------------------------
+#
+#   PART IV. - INSTALLING AND CONFIGURING THE MODIFICATIONS
+#
+# ----------------------------------------------------------
+#
+#   (to be continued...)
+#
+#
+#
+#
+#
+#
+#
+#
+# ----------------------------------------------------------
+#
+#   PART V. - IS THERE A PLAN B?
+#
+# ----------------------------------------------------------
+#
+#   (to be continued...)
+#
+#
+#
+#
+#
+#
+#
+#
+# ----------------------------------------------------------
+#
+#   PART VI. - APPENDIX
+#
+# ----------------------------------------------------------
+#
+#   (to be continued...)
+#
+#
+#
+#
+#
+#
+#
+#
+
+
+
